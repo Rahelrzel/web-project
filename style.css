@@ -1,0 +1,68 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    padding: 0;
+    margin: 0;
+    color: antiquewhite;
+    background-color: #1a131f;
+}
+.navigation {
+    position: absolute;
+    top: 10px; 
+    right: 10px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    background-color: rgb(71, 55, 86);
+  }
+  
+  .navigation a {
+    margin-left: 10px;
+    color: rgb(31, 3, 58);
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 10px;
+    }
+  button{
+    border-radius: 15px;
+  }
+  button:hover{
+    background-color:darkgoldenrod;
+  }
+  .bx {
+    font-family: boxicons!important;
+    font-weight: 400;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 1;
+    text-rendering: auto;
+    display: inline-block;
+    text-transform: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.logo{
+    font-family:'Times New Roman', Times, serif;
+    padding: 0px;
+    margin: 10px;
+}
+.intro{
+    padding: 10px;
+    margin: 10px;
+    font-size: xx-large;
+}
+.myname{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkgoldenrod;
+}
+.download btn{
+    text-decoration: none;
+    padding: 20px;
+    margin: 10px;
+
+}
+.about{
+    padding: 20px;
+    margin: 20px;
+    font-size:x-large;
+
+}
